@@ -1,4 +1,4 @@
-.temple{
+header{
 
     color:white;
     background-color:black;
@@ -6,6 +6,8 @@
     padding:20px;
     display:block;
     height:auto;
+    text-align:center;
+    font-size: 20px;
 
     
 }
@@ -52,4 +54,5 @@ footer{
     color:white;
     padding: 20px;
     text-align: center;
+    font-size: 20px;
 }
