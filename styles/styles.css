@@ -18,10 +18,13 @@ h1{
 main img{
     width:150px;
     height:auto;
+    border:2px solid black;
+    padding:20px;
+    box-shadow: inset 0 0 10px black;
     
 }
 p{
-    padding:10px;
+    padding:0;
 
 }
 main{
@@ -49,9 +52,8 @@ p{
 
 footer{
     display:block;
-    border: 2px solid black;
+    border-top: 2px solid black;
     text-align: center;
     margin-top: 40px;
-    color:black;
     font-size: 20px;
 }
