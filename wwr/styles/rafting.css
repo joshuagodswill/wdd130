@@ -6,6 +6,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:var(--acent1-color);
+    
 }
 header, main , footer {
     width:840px;
