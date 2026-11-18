@@ -36,7 +36,7 @@ height:auto;
 
 h1{
     position: absolute;
-    top:300px;
+    top:150px;
     width:62%;
     padding:16px;
     text-align:center;
@@ -66,6 +66,11 @@ h2{
     opacity:0.7;
     text-align: center;
     margin-top: 10px;
+}
+
+.social media a{
+
+    text-decoration: none;
 }
 
 
