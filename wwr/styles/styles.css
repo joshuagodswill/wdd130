@@ -109,8 +109,8 @@ aside{
     width:65%;
     display: block;
     background-color: gray;
-    margin-left:230px ;
-    margin-right: 230px;
+    margin:230px;
+    margin-top: 10px;;
     padding:6%;
     border: 1px solid black;
     color:aqua
