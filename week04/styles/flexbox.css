@@ -8,7 +8,10 @@ body {
     background-color: lightyellow;
     display: flex;
     flex-wrap: wrap;
+
+    
 }
+
 
 .flex-item {
     width: 250px;
@@ -21,6 +24,7 @@ body {
 
 .item1 {
     min-height: 100px;
+    background-color: ;
 }
 
 .item2 {
