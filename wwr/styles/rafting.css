@@ -78,13 +78,6 @@ width: 100%;
 }
 
 
-
-.hero article{
-    
-background-color: rgb(255,255,255,0.85);
-grid-column: 2/3;
-
-}
 .hero article img{
 display: flex;
 align-items:end;
@@ -179,7 +172,7 @@ header ul li a{
     font-weight: bold;
     width: 100%;
     flex-wrap: nowrap;
-    flex-shrink: none;
+    flex-shrink:0;
     
 }
 
@@ -205,10 +198,11 @@ header ul li a{
 
 
  .hero article{
-grid-column: 1;
+    grid-column: 1;
     width: 100%;
     height: 100%;
     object-fit: cover;
+    background-color: var(--seconsary-color);
  
 }
 
